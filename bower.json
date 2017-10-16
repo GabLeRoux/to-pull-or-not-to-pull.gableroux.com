@@ -1,0 +1,8 @@
+{
+  "name": "to-pull-or-not-to-pull-ma-premiere-contribution-open-source",
+  "version": "0.0.0",
+  "dependencies": {
+    "reveal.js": "~3.3.0",
+    "highlightjs": "~9.0.0"
+  }
+}

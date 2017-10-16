@@ -1,0 +1,11 @@
+{
+  "generator-reveal": {
+    "presentationTitle": "To pull or not to pull? Ma première contribution open source",
+    "packageVersion": "0.0.0",
+    "revealTheme": "moon",
+    "useSass": false,
+    "deployToGithubPages": true,
+    "githubUsername": "GabLeRoux",
+    "githubRepository": "to-pull-or-not-to-pull"
+  }
+}
