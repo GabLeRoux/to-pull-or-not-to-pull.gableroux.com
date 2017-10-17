@@ -8,11 +8,13 @@ cache:
 
 before_script:
   - npm install -g grunt
-  - chmod +x ./deploy-to-gh-pages.sh
+
+script:
+  - npm run test
+  - npm run build
 
 deploy:
-  script:
-    - ./deploy-to-gh-pages.sh
+  local_dir: dist
   provider: pages
   skip_cleanup: true
   github_token: "$GITHUB_TOKEN"
