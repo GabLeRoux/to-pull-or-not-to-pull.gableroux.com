@@ -2,6 +2,10 @@ language: node_js
 node_js:
   - 8.6.0
 
+cache:
+  directories:
+    - node_modules
+
 before_script:
   - npm install -g grunt
   - chmod +x ./deploy-to-gh-pages.sh
