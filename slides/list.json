@@ -6,6 +6,10 @@
             "data-background": "resources/morty-very-amazed.gif"
         }
     },
+    [
+        "2a-hacktoberfest.md",
+        "2b-digitalocean.md"
+    ],
     "2-git.md",
     [
         "3-github.md",
