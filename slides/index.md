@@ -1,10 +1,4 @@
 
-# To pull or not to pull? Ma première contribution open source
+# To pull or not to pull?
 
-From the terminal, pop in:
-
-  ```yo reveal:slide "Slide Title"```
-
-Available options:
-
- ```--markdown --attributes --notes```
+My first open-source contribution
