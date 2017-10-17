@@ -18,8 +18,8 @@ deploy:
   provider: pages
   skip_cleanup: true
   github_token: "$GITHUB_TOKEN"
-#  on:
-#    branch: master
+  on:
+    branch: master
 
 env:
   matrix:
