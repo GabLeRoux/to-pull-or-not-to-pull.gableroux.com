@@ -21,6 +21,7 @@
     "url": "git@github.com:GabLeRoux/to-pull-or-not-to-pull.git"
   },
   "scripts": {
-    "test": "grunt test"
+    "test": "grunt test",
+    "build": "grunt dist"
   }
 }
