@@ -24,7 +24,7 @@
   "scripts": {
     "test": "grunt test",
     "build": "grunt dist",
-    "postsinstall": "node -e require('fs').symlinkSync(require('path').join(process.cwd(), 'node_modules/@bower_components'), require('path').join(process.cwd(), 'bower_components'), 'junction')"
+    "postinstall": "node -e \"try { require('fs').symlinkSync(require('path').join(process.cwd(), 'node_modules/@bower_components'), require('path').join(process.cwd(), 'bower_components'), 'junction') } catch (e) { }\""
   },
   "dependencies": {
     "bower-away": "^1.0.5",
