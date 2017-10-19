@@ -13,10 +13,6 @@
     "grunt-contrib-watch": "^1.0.0",
     "load-grunt-tasks": "^3.5.2"
   },
-  "engines": {
-    "node": "^4",
-    "yarn": ">= 1.0.0"
-  },
   "repository": {
     "type": "git",
     "url": "git@github.com:GabLeRoux/to-pull-or-not-to-pull.git"
