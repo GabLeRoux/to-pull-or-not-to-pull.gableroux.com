@@ -9,6 +9,7 @@ cache:
 before_script:
   - npm install -g grunt bower
   - bower install
+  - yarn install --ignore-engines
 
 script:
   - npm run test
