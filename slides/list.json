@@ -1,0 +1,89 @@
+[
+    "index.md",
+    "1-open-source.md",
+    {
+        "attr": {
+            "data-background": "resources/morty-very-amazed.gif"
+        }
+    },
+    [
+        "2a-hacktoberfest.md",
+        "2b-digitalocean.md"
+    ],
+    "2-git.md",
+    [
+        "3-github.md",
+        {
+            "attr": {
+                "data-background": "resources/website-github.png"
+            }
+        },
+        "4-gitlab.md",
+        {
+            "attr": {
+                "data-background": "resources/website-gitlab.png"
+            }
+        },
+        "5-bitbucket.md",
+        {
+            "attr": {
+                "data-background": "resources/website-bitbucket.png"
+            }
+        }
+    ],
+    [
+        "5a-pull-request-vs-merge-request.md",
+        "5b-pull-request-vs-merge-request.md",
+        "5c-pull-request-vs-merge-request.md",
+        "5d-pull-request-vs-merge-request.md",
+        "5e-pull-request-vs-merge-request.md",
+        {
+            "attr": {
+                "data-background": "resources/the-same-but-different-but-still-same.gif"
+            }
+        }
+    ],
+    [
+        "6a-fork.md",
+        "6b-fork.md"
+    ],
+    [
+        "7a-clone.md",
+        "7b-clone.md"
+    ],
+    {
+        "attr": {
+            "data-background": "resources/cat-keyboard.gif"
+        }
+    },
+    "8-commit.md",
+    "9-push.md",
+    [
+        "10a-pull-request.md",
+        "10b-pull-request.md",
+        {
+            "attr": {
+                "data-background": "resources/github-automatic-pull-request.png"
+            }
+        }
+    ],
+    {
+        "attr": {
+            "data-background": "resources/morty-nope.gif"
+        }
+    },
+
+    "10-easy-repos.md",
+    "11-contributing.md",
+    [
+        "12a-merge.md",
+        "12b-merge.md",
+        "12c-merge.md"
+    ],
+    "13-hub.md",
+    {
+        "attr": {
+            "data-background": "resources/rick-mad-typing.gif"
+        }
+    }
+]

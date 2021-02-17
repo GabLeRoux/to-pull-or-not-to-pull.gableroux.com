@@ -1,0 +1,8 @@
+* 👈 [github.com/ferd/my-finger](https://github.com/ferd/my-finger)
+* 🥔 [github.com/drtshock/Potato](https://github.com/drtshock/Potato)
+* 🐣 [github.com/MunGell/awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners)
+* 🏆 [github.com/Roshanjossey/first-contributions](https://github.com/Roshanjossey/first-contributions)
+* 🔦 [github.com/showcases/great-for-new-contributors](https://github.com/showcases/great-for-new-contributors)
+* ⏲ [firsttimersonly.com](http://www.firsttimersonly.com/)
+* 📖 [opensource.guide](https://opensource.guide/)
+* 🥇 [firstpr.me](http://firstpr.me/)

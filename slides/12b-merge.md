@@ -1,0 +1,1 @@
+![](resources/merge-conflict.png)
